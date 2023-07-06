@@ -6,3 +6,4 @@
 5-listfilesdigitsonly: This script displays files with digits only
 6-firstdirectory: This script creats a directory called my_first_directory in /tmp
 7-movethatfile: This script can move betty from /tmp to /tmp/my_first_directory
+8-firstdelete: This script deletes the file betty in /tmp/my_first/directory
