@@ -9,3 +9,4 @@
 8-firstdelete: This script deletes the file betty in /tmp/my_first/directory
 9-firstdirdeletion: This script can delete the my_fir_directory directory
 10-back: This script can change to previous working directory
+11-lists: This script can list all file including hidden ones in current directory, parent directory and in /boot directory
