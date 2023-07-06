@@ -5,3 +5,4 @@
 4-listmorefiles: This script displays all files including hidden files
 5-listfilesdigitsonly: This script displays files with digits only
 6-firstdirectory: This script creats a directory called my_first_directory in /tmp
+7-movethatfile: This script can move betty from /tmp to /tmp/my_first_directory
